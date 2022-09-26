@@ -1,5 +1,5 @@
 function getURLSlug(words){
     return words
-        .replace(/\s+/g,'-')
+        .replace(/\s+/gg,'-')
         .toLowerCase();
 }
