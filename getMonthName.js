@@ -7,6 +7,7 @@ export default function getMonthName(place){
         'may',
         'jun',
         'jul',
-        'ago'
+        'ago',
+        'sep'
     ]
 }
